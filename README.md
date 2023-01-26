@@ -1,5 +1,9 @@
 # websocket_example_flutter
 
+- `main.dart` taken from [Flutter Cookbook for WebSockets](https://docs.flutter.dev/cookbook/networking/web-sockets).
+
+- Project created using [VSCode Flutter extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter). How - https://docs.flutter.dev/development/tools/vs-code#creating-a-new-project
+
 A new Flutter project.
 
 ## Getting Started
